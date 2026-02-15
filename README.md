@@ -1,3 +1,5 @@
+# Heritage_Crestline_Realty_Website
+
 1. Introduction
 Heritage Crestline Realty is a fully database-driven luxury real estate web application developed using PHP and MySQL. The purpose of this project was to design and implement a dynamic property management system that simulates the functionality of a professional real estate platform.
 The system enables users to browse properties, save favourites, submit enquiries, and book property viewings. Additionally, it includes a dedicated administrative panel for managing properties, users, and database records.
