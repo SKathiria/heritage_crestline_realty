@@ -56,7 +56,6 @@ Add and remove properties from favourites
 Submit property inquiries
 Book property viewings
 Access a personal dashboard to manage favourites, inquiries, and bookings
-
 5.2 Admin Features
 Admin login authentication
 Add new property listings
@@ -74,14 +73,12 @@ header.php
 footer.php
 config.php (database connection)
 This improves maintainability and separation of concerns.
-
 6.2 CRUD Operations
 The project implements complete CRUD functionality:
 Create – Add properties, users, bookings
 Read – Display property listings and dashboard data
 Update – Modify property details
 Delete – Remove properties and records
-
 6.3 Session Management
 User authentication is handled using PHP sessions to ensure:
 Secure login persistence
